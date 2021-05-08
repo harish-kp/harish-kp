@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harish-kp
 - 👀 I’m interested in electronics, robotics (ROS), control systems
-- 🌱 I’m currently learning UAV controls
+- 🌱 I’m currently learning UAV controls, ADAS (improving existing cruise control repo)
 - 💞️ I’m looking to collaborate on electronics, robotics and control systems
 - 📫 How to reach me kperatchi@gmail.com
 
