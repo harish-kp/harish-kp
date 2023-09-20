@@ -2,6 +2,7 @@
 - 👀 I’m interested in electronics, robotics (ROS), control systems
 - 🌱 I’m currently learning UAV controls, ADAS (improving existing cruise control repo), OpenAI in ROS
 - 💞️ I’m looking to collaborate on electronics, robotics and control systems
+- Learning my way around KR260
 - 📫 How to reach me kperatchi@gmail.com
 
 <!---
